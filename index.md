@@ -15,3 +15,5 @@ Dopo il PON riguardante la Matematica e la Programmazione, ho continuato ad usar
 Ho appreso qualche informazione base sul JS tramite Grasshopper (https://grasshopper.app/), applicazione di Google che spiegava alcune funzioni basilari sul Javascript.
 Dopo circa due mesi, ho iniziato ad apprendere il Javascript attraverso dei libri.
 
+### A cosa sto lavorando?
+Attualmente sto lavorando ad un mio progetto, Il Randomizer, nel quale cliccando un pulsante ti viene dato un nome a caso, il quale può essere una nazione, un edificio, un animale ecc. ecc..
